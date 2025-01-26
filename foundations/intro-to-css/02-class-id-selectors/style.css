@@ -1,0 +1,24 @@
+.pink_class {
+    background-color: pink;
+    font-size: 40px;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.cooler {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+#number2 {
+    color: blue;
+    font-size: 75px;
+    font-weight: bold;
+}
+
+#number4 {
+    background-color: blanchedalmond;
+    font-size: 45px;
+    font-weight: bold;
+    color: black;
+}
